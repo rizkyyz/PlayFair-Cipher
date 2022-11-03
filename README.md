@@ -28,8 +28,5 @@ dengan hasil gambar seperti dibawah ini
 ![image](foto1.png)
 
 2. Setelah itu kita jalankan tools nya yaitu kita pilih enkripsi no 1
-```
 
 ![image](2.png)
-
-```
